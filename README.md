@@ -1,2 +1,2 @@
-# Axios_Course
-Short course to get familiar with Axios
+# Axios Crash Course
+A short course to get familiar with Axios HTTP Client.
