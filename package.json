@@ -4,7 +4,7 @@
   "description": "A short course to get familiar with Axios HTTP Client.",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/FairlyTales/Axios_Course#readme",
   "dependencies": {
     "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
   }
 }
